@@ -1,5 +1,6 @@
 
 body {
+    min-height: 700px;
     background-image:url('uo.jpg');
     background-repeat:no-repeat;
     background-size:cover;
@@ -232,19 +233,23 @@ h4 {
   font-size: 14px;
 }
 .container {
-    display: table;
-    vertical-align: middle;
+    height: 700px
 }
 .vertical-center-row {
     display: table-cell;
     vertical-align: middle;
 }
 
+#cent_but {
+    margin-left: 85px; 
+}
 
 #background {
-    top: 50%;
-    left: 50%;
-    margin-top: 100px;
+    
+    margin-top: 25px;
+}
+#cherish {
+     margin-top: 100px;
 }
 
 .speech-bubble {
@@ -271,9 +276,8 @@ h4 {
 }
 .bubble 
 {
-position: relative;
+
 width: 650px;
-height: 170px;
 padding: 0px;
 background: #FFFFFF;
 -webkit-border-radius: 10px;
@@ -312,5 +316,5 @@ left: 286px;
 #wrapper {
     top: 50%;
     left: 50%;
-    margin-top: 600px;
+    margin-top: 100px;
 }
