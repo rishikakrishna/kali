@@ -1,5 +1,5 @@
-###Kali
-#Train with student athletes at your university.
+#Kali
+###Train with student athletes at your university.
 
 Team:
   Maria Rodriguez,
